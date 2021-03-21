@@ -2,7 +2,7 @@ import * as React from 'react'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import List from '../components/common/List';
-import ListItem from '../components/common/ListItem.js'
+import ListItem from '../components/common/ListItem'
 
 const lectures = [
     {
